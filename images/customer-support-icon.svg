@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="78px" viewBox="0 0 78 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>customer support icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="customer-support-icon" transform="translate(1.000000, 1.000000)" stroke="#15113B" stroke-width="2">
+            <path d="M16.3050221,6.79771158 C12.3680768,9.54020597 8.97463882,13.008738 6.31871395,17.0093018 M4.20795475,20.6016631 C1.5185587,25.8146161 0,31.7299689 0,38 C0,58.9868205 17.0131795,76 38,76 C58.9868205,76 76,58.9868205 76,38 C76,17.0131795 58.9868205,0 38,0 C31.8155007,0 25.9760691,1.47741084 20.8153898,4.09854812" id="Oval-4" fill="#F7F7F7" stroke-linecap="round"></path>
+            <path d="M47.7315537,53.3698313 C49.8978396,52.0220954 51.748059,50.2141592 53.1455236,48.0827112 M54.4838707,45.6356917 C55.4582269,43.456459 56,41.0414984 56,38.5 C56,28.8350169 48.1649831,21 38.5,21 C28.8350169,21 21,28.8350169 21,38.5 C21,48.1649831 28.8350169,56 38.5,56 C41.0559556,56 43.4839297,55.4520457 45.6728582,54.467201" id="Oval-5" fill="#F7F7F7" stroke-linecap="round"></path>
+            <path d="M33.5,21 L33.5,0" id="Path-3"></path>
+            <path d="M44.5,21 L44.5,0" id="Path-3"></path>
+            <path d="M33.5,76 L33.5,55" id="Path-3"></path>
+            <path d="M43.6666667,75.25 L43.6666667,55" id="Path-3"></path>
+            <path d="M22,34.5 L1,34.5" id="Path-4"></path>
+            <path d="M1,43.5 L22,43.5" id="Path-5"></path>
+            <path d="M56,33.5 L76,33.5" id="Path-6"></path>
+            <path d="M56,43.5 L76,43.5" id="Path-7"></path>
+        </g>
+    </g>
+</svg>

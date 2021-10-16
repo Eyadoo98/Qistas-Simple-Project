@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="92px" viewBox="0 0 67 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>lead generation icon with color</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lead-generation-icon-with-color" transform="translate(1.000000, 1.000000)" stroke="#15113B" stroke-width="2">
+            <path d="M0,38 L-7.77156117e-16,46.0959383 C-7.41794316e-16,46.3846894 0.12481473,46.6593457 0.342333546,46.8492476 L24.9858015,68.3638939 C25.2033203,68.5537957 25.328135,68.8284521 25.328135,69.1172031 L25.328135,88.5560046 C25.328135,89.1082894 25.7758503,89.5560046 26.328135,89.5560046 C26.4942447,89.5560046 26.657738,89.5146256 26.8038482,89.4356051 L39.0818448,82.7953123 C39.404856,82.6206185 39.6061316,82.2829367 39.6061316,81.9157118 L39.6061316,66.7165142 C39.6061316,66.4136743 39.7433686,66.1271485 39.9793367,65.93733 L63.7065269,46.8505932 C63.9424949,46.6607747 64.0797319,46.3742489 64.0797319,46.071409 L64.0797319,38 C64.0797319,37.4477153 63.6320166,37 63.0797319,37 L1,37 C0.44771525,37 -6.76353751e-17,37.4477153 0,38 Z" id="Path-2"></path>
+            <circle id="Oval-3" fill="#FFC403" cx="9" cy="24" r="8"></circle>
+            <circle id="Oval-3" fill="#FFC403" cx="50" cy="23" r="9"></circle>
+            <circle id="Oval-3" fill="#09D5B0" cx="30.5" cy="16.5" r="5.5"></circle>
+            <circle id="Oval-3" fill="#09D5B0" cx="41.5" cy="5.5" r="5.5"></circle>
+        </g>
+    </g>
+</svg>

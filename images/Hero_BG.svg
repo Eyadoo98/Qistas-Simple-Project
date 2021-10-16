@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="147px" viewBox="0 0 1440 147" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Hero_BG</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(0.000000, -261.000000)">
+            <g id="Hero_BG" transform="translate(-38.000000, 261.000000)">
+                <g transform="translate(0.000000, 43.000000)" fill="#FFC403" id="Path-11" opacity="0.199330357">
+                    <path d="M0,58.3477718 L0,101.279381 C143.247315,45.25004 269.303017,17.2353694 378.167104,17.2353694 C744.1315,17.2353694 908.025675,68.9502822 1172.45551,89.3384227 C1348.74207,102.930516 1456.59023,106.910836 1496,101.279381 L1496,58.3477718 C1014.13268,19.9537132 654.392993,0.756683916 416.780938,0.756683916 C179.168883,0.756683916 40.2419033,19.9537132 0,58.3477718 Z" transform="translate(748.000000, 52.255315) scale(-1, 1) translate(-748.000000, -52.255315) "></path>
+                </g>
+                <g fill="#15113B" id="Path-11">
+                    <path d="M0,0.915807635 L0,110.747239 C148.535008,69.0013451 277.234555,48.128398 386.098643,48.128398 C752.063038,48.128398 903.667792,87.2875254 1168.09763,110.747239 C1344.38419,126.387049 1453.68498,126.387049 1496,110.747239 L1496,0.915807635 L0,0.915807635 Z" transform="translate(748.000000, 61.696452) scale(-1, 1) translate(-748.000000, -61.696452) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
